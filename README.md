@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eraykstrl" alt="eraykstrl" /></a> </p>
 
-- 🔭 I’m currently learning **Machine Learning with Python and Video processing with Python OpenCV.I'm learning embedded software.
-
-- 🌱 I’m also learning **data science so I also work with numpy, pandas and matplotlib**
-
-- 📫 How to reach me **kosterelieray61@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
