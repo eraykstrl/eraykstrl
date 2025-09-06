@@ -34,6 +34,7 @@
   </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eraykstrl&show_icons=true&locale=en&layout=compact" alt="eraykstrl" />
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eraykstrl&show_icons=true&layout=compact&cache_seconds=60" alt="eraykstrl" />
 </p>
