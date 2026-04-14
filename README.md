@@ -71,3 +71,4 @@ AI-powered Mobile Applications
 
 LinkedIn: https://www.linkedin.com/in/eray-kstrl
 GitHub: https://github.com/eraykstrl
+Mail: kosterelieray61@gmail.com
