@@ -1,80 +1,102 @@
 <h1 align="center">Eray Kösterelioğlu</h1>
-<p align="center">Android Developer (Kotlin) | AI & Machine Learning Engineer</p>
+<p align="center">
+Android Developer (Kotlin) | Machine Learning & Computer Vision Engineer
+</p>
 
 ---
 
-### About Me
+## 👨‍💻 About Me
 
-Computer Engineering student (graduating June 2026).
-Focused on Android development with Kotlin and modern mobile architectures.
-Focused on ML and DL models.
-Experienced in building production-like mobile applications using Clean Architecture and MVVM.
+I am a Computer Engineering student (graduating June 2026) with a strong focus on **Android development** and **Machine Learning**.
 
-In addition to mobile development, I actively work on AI and machine learning projects involving computer vision and deep learning.
+On the mobile side, I build scalable and production-ready applications using **Kotlin**, **Jetpack Compose**, and modern architectures such as **MVVM** and **Clean Architecture**.
 
----
+On the AI side, I actively develop **machine learning and deep learning models**, with a particular focus on **computer vision problems** such as object detection and image-based classification using **TensorFlow** and **YOLO**.
 
-### Tech Stack
-
-Kotlin, Jetpack Compose, Android SDK, MVVM, Clean Architecture, Hilt, Coroutines, Flow
-Python, TensorFlow, Machine Learning, Deep Learning, Computer Vision (YOLO)
-Firebase, Firestore, FCM
-REST APIs, Git, C++
-Python
-Pandas
-Numpy
-Scikit-learn
-TensorFlow
+I am especially interested in building **AI-powered mobile applications** that combine intelligent models with modern user experiences.
 
 ---
 
-### Featured Projects
+## 🛠️ Tech Stack
 
-#### Akıllı Kampüs – Safety & Emergency Notification System
+**Mobile Development**
 
-Location-based mobile application for real-time emergency tracking within campus environments.
-Implements push notifications (FCM), map-based visualization, and admin-controlled alert system.
+* Kotlin, Jetpack Compose, Android SDK
+* MVVM, Clean Architecture
+* Hilt, Coroutines, Flow
 
-Tech: Kotlin, Jetpack Compose, MVVM, Clean Architecture, Firebase (Firestore, FCM), Google Maps
+**Machine Learning & AI**
 
----
+* Python (NumPy, Pandas, Scikit-learn)
+* TensorFlow, Deep Learning
+* Computer Vision (YOLO, Image Processing)
 
-#### HitShop – E-Commerce Mobile Application
+**Backend & Tools**
 
-Modern e-commerce application inspired by real-world platforms.
-Includes product listing, search, favorites, and local persistence with Room.
-
-Tech: Jetpack Compose, MVVM, Clean Architecture, Hilt, Room, REST API
-
----
-
-#### To-Do Application Pro (UI/UX Project)
-
-Jetpack Compose-based UI/UX focused application demonstrating modern Android screen flows and interaction design.
+* Firebase (Firestore, FCM)
+* REST APIs
+* Git, C++
 
 ---
 
-#### AI & Computer Vision Project
+## 🚀 Featured Projects
 
-Machine learning pipeline using TensorFlow and YOLO for image-based detection tasks.
-Includes feature engineering, model training, evaluation, and result interpretation.
+### 📱 Akıllı Kampüs – Safety & Emergency Notification System
 
-Tech: Python, TensorFlow, YOLO, Feature Engineering, Computer Vision
+A location-based mobile application designed for real-time emergency tracking within campus environments.
 
----
+* Real-time alerts with Firebase Cloud Messaging (FCM)
+* Map-based visualization of incidents
+* Admin-controlled emergency management system
 
-### Focus Areas
-
-Android Application Development
-Modern UI with Jetpack Compose
-Clean Architecture & Scalable Systems
-Machine Learning & Computer Vision
-AI-powered Mobile Applications
+**Tech:** Kotlin, Jetpack Compose, MVVM, Clean Architecture, Firebase, Google Maps
 
 ---
 
-### Contact
+### 🛒 HitShop – E-Commerce Mobile Application
 
-LinkedIn: https://www.linkedin.com/in/eray-kstrl
-GitHub: https://github.com/eraykstrl
-Mail: eray.kostereli@gmail.com
+A modern e-commerce application inspired by real-world platforms.
+
+* Product listing, search and filtering
+* Favorites system
+* Local data persistence with Room
+
+**Tech:** Jetpack Compose, MVVM, Clean Architecture, Hilt, Room, REST API
+
+---
+
+### ✅ To-Do Application Pro (UI/UX Focused)
+
+A Jetpack Compose-based application focused on modern UI/UX design principles and smooth user interactions.
+
+---
+
+### 🤖 AI & Computer Vision Project
+
+Developed a **computer vision pipeline** using YOLO for object detection tasks.
+
+* Data preprocessing and feature engineering
+* Model training and evaluation
+* Performance improvement through dataset refinement and hyperparameter tuning
+* Result analysis and interpretation
+
+**Tech:** Python, TensorFlow, YOLO, Computer Vision
+
+---
+
+## 🎯 Focus Areas
+
+* Android Application Development
+* Modern UI with Jetpack Compose
+* Scalable Architecture (MVVM & Clean Architecture)
+* Machine Learning & Deep Learning
+* Computer Vision
+* AI-powered Mobile Systems
+
+---
+
+## 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/eray-kstrl
+* GitHub: https://github.com/eraykstrl
+* Mail: [eray.kostereli@gmail.com](mailto:eray.kostereli@gmail.com)
