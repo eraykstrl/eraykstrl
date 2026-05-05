@@ -7,6 +7,7 @@
 
 Computer Engineering student (graduating June 2026).
 Focused on Android development with Kotlin and modern mobile architectures.
+Focused on ML and DL models.
 Experienced in building production-like mobile applications using Clean Architecture and MVVM.
 
 In addition to mobile development, I actively work on AI and machine learning projects involving computer vision and deep learning.
@@ -19,6 +20,11 @@ Kotlin, Jetpack Compose, Android SDK, MVVM, Clean Architecture, Hilt, Coroutines
 Python, TensorFlow, Machine Learning, Deep Learning, Computer Vision (YOLO)
 Firebase, Firestore, FCM
 REST APIs, Git, C++
+Python
+Pandas
+Numpy
+Scikit-learn
+TensorFlow
 
 ---
 
