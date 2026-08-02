@@ -5,98 +5,49 @@ Android Developer (Kotlin) | Machine Learning & Computer Vision Engineer
 
 ---
 
-## 👨‍💻 About Me
-
-I am a Computer Engineering student (graduating June 2026) with a strong focus on **Android development** and **Machine Learning**.
-
-On the mobile side, I build scalable and production-ready applications using **Kotlin**, **Jetpack Compose**, and modern architectures such as **MVVM** and **Clean Architecture**.
-
-On the AI side, I actively develop **machine learning and deep learning models**, with a particular focus on **computer vision problems** such as object detection and image-based classification using **TensorFlow** and **YOLO**.
-
-I am especially interested in building **AI-powered mobile applications** that combine intelligent models with modern user experiences.
+### 👨‍💻 About Me
+Computer Engineering graduate building **AI-powered mobile applications**. I combine production Android development with deep learning and computer vision — from Jetpack Compose UIs to fine-tuned CV models running on real data pipelines.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-**Mobile Development**
+**Mobile**
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
-* Kotlin, Jetpack Compose, Android SDK
-* MVVM, Clean Architecture
-* Hilt, Coroutines, Flow
-
-**Machine Learning & AI**
-
-* Python (NumPy, Pandas, Scikit-learn)
-* TensorFlow, Deep Learning
-* Computer Vision (YOLO, Image Processing)
+**Machine Learning & Computer Vision**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
 **Backend & Tools**
-
-* Firebase (Firestore, FCM)
-* REST APIs
-* Git, C++
-
----
-
-## 🚀 Featured Projects
-
-### 📱 Akıllı Kampüs – Safety & Emergency Notification System
-
-A location-based mobile application designed for real-time emergency tracking within campus environments.
-
-* Real-time alerts with Firebase Cloud Messaging (FCM)
-* Map-based visualization of incidents
-* Admin-controlled emergency management system
-
-**Tech:** Kotlin, Jetpack Compose, MVVM, Clean Architecture, Firebase, Google Maps
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-### 🛒 HitShop – E-Commerce Mobile Application
+### 🚀 Featured Projects
 
-A modern e-commerce application inspired by real-world platforms.
+**📱 Akıllı Kampüs** — Campus emergency alert system with real-time FCM notifications and map-based incident tracking.
+`Kotlin · Compose · Firebase · Google Maps`
 
-* Product listing, search and filtering
-* Favorites system
-* Local data persistence with Room
+**🛒 HitShop** — E-commerce app with search/filtering, favorites, and offline persistence via Room.
+`Compose · MVVM · Hilt · Room · REST API`
 
-**Tech:** Jetpack Compose, MVVM, Clean Architecture, Hilt, Room, REST API
-
----
-
-### ✅ To-Do Application Pro (UI/UX Focused)
-
-A Jetpack Compose-based application focused on modern UI/UX design principles and smooth user interactions.
+**🤖 CV Pipelines** — Image classification & object detection pipelines using YOLO and modern `timm` backbones (ConvNeXt V2, EfficientNetV2, Swin V2), with a focus on production-ready training and evaluation workflows.
+`Python · PyTorch · TensorFlow · YOLO`
 
 ---
 
-### 🤖 AI & Computer Vision Project
-
-Developed a **computer vision pipeline** using YOLO for object detection tasks.
-
-* Data preprocessing and feature engineering
-* Model training and evaluation
-* Performance improvement through dataset refinement and hyperparameter tuning
-* Result analysis and interpretation
-
-**Tech:** Python, TensorFlow, YOLO, Computer Vision
-
----
-
-## 🎯 Focus Areas
-
-* Android Application Development
-* Modern UI with Jetpack Compose
-* Scalable Architecture (MVVM & Clean Architecture)
-* Machine Learning & Deep Learning
-* Computer Vision
-* AI-powered Mobile Systems
-
----
-
-## 📫 Contact
-
-* LinkedIn: https://www.linkedin.com/in/eray-kstrl
-* GitHub: https://github.com/eraykstrl
-* Mail: [eray.kostereli@gmail.com](mailto:eray.kostereli@gmail.com)
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/eray-kstrl) · [GitHub](https://github.com/eraykstrl) · [eray.kostereli@gmail.com](mailto:eray.kostereli@gmail.com)
